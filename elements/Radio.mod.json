@@ -1,0 +1,48 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "RadioRXTX",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "RadioRXTX",
+          "x": 256,
+          "y": 80
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "input tx",
+          "width": 240,
+          "height": 40,
+          "name": "TX",
+          "x": 259,
+          "y": 180
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "TX",
+          "width": 40,
+          "height": 40,
+          "name": "TX",
+          "x": 264,
+          "y": 226
+        }
+      }
+    ]
+  }
+}

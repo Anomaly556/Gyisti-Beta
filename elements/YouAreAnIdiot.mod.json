@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "when.player.entered.command(youareanidiot)\n show.command(/title @s title You Are An Idiot!)\n play.master(youareanidiot.ogg)\necho\n",
+    "name": "youareanidiot",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "when.player.entered.command(plrmsg) or when.excute\n send.chat(<player.name> <player.message>\n",
+    "name": "ply",
+    "namespace": "mod"
+  }
+}

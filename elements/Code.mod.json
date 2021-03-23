@@ -1,0 +1,35 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "####-####-####-####",
+          "width": 380,
+          "height": 40,
+          "name": "####-####-####-####",
+          "x": 239,
+          "y": 99
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1919,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1919",
+          "x": 258,
+          "y": 148
+        }
+      }
+    ]
+  }
+}

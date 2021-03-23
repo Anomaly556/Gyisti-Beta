@@ -1,0 +1,70 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 600,
+    "height": 450,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "/cmd",
+          "width": 240,
+          "height": 40,
+          "name": "Cmd",
+          "x": 132,
+          "y": 21
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "enter",
+          "width": 100,
+          "height": 40,
+          "name": "enter",
+          "x": 618,
+          "y": 22
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Logs",
+          "width": 80,
+          "height": 40,
+          "name": "Logs",
+          "x": 132,
+          "y": 65
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 477,
+          "y": 24
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "/Command",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "/Command",
+          "x": 123,
+          "y": 105
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "youareanidiot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:you-are-an-idiot",
+        "stream": false
+      }
+    ]
+  },
+  "ai_scp": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:ai",
+        "stream": false
+      }
+    ]
+  },
+  "amongus": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:amongusthemecorrupted",
+        "stream": false
+      }
+    ]
+  },
+  "blue": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:blue_feather",
+        "stream": false
+      }
+    ]
+  },
+  "bump": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:bump_in_the_night",
+        "stream": false
+      }
+    ]
+  },
+  "fnaf": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:five_nights_at_freddys_soundtrack_-_music_box_freddys_music",
+        "stream": false
+      }
+    ]
+  },
+  "mandre": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:mandeville",
+        "stream": false
+      }
+    ]
+  },
+  "scpradio": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:scpradio_tune",
+        "stream": false
+      }
+    ]
+  },
+  "shaun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:shaun_day_feat._shaun_das_schaf",
+        "stream": false
+      }
+    ]
+  },
+  "showyourself": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:show_yourself_-_among_us_animation_original_song",
+        "stream": false
+      }
+    ]
+  },
+  "yourlastwarning": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:this_is_your_last_warningscp_rem2ix",
+        "stream": false
+      }
+    ]
+  },
+  "yourrast": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:this_is_your_last_warningscp_remix",
+        "stream": false
+      }
+    ]
+  },
+  "timmy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:timmy_time_theme_song",
+        "stream": false
+      }
+    ]
+  },
+  "ugotthat": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:u_got",
+        "stream": false
+      }
+    ]
+  },
+  "boom": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:vengaboys_-_boomboomboomboom_1999",
+        "stream": false
+      }
+    ]
+  },
+  "melo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:melobytes_1",
+        "stream": false
+      }
+    ]
+  },
+  "mely": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:melobytes",
+        "stream": false
+      }
+    ]
+  },
+  "mors": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "gyisti:morse_2",
+        "stream": false
+      }
+    ]
+  }
+}

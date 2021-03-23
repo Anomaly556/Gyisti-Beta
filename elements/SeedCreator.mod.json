@@ -1,0 +1,85 @@
+{
+  "_fv": 10,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 500,
+    "height": 400,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Seed Creator",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Seed Creator",
+          "x": 181,
+          "y": 45
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Input Your Seed",
+          "width": 240,
+          "height": 40,
+          "name": "Seed",
+          "x": 181,
+          "y": 179
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Create",
+          "width": 120,
+          "height": 40,
+          "name": "Create",
+          "x": 364,
+          "y": 224
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Here To Insert Seed Cmd",
+          "width": 240,
+          "height": 40,
+          "name": "cmdinput",
+          "x": 431,
+          "y": 178
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Seed Example= SG64G-FFT6w",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Seed Example= SG64G-FFT6w",
+          "x": 180,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "cmd Example=World(Type=flat.function; Insert=(Plain.Village_size550.Distance_) ",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "cmd Example=World(Type=flat.function; Insert=(Plain.Village_size550.Distance_) ",
+          "x": 47,
+          "y": 113
+        }
+      }
+    ]
+  }
+}

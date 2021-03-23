@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Gyisti Living",
+    "icon": {
+      "value": "Items.SKULL#3"
+    },
+    "showSearch": true
+  }
+}

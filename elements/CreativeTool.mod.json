@@ -1,0 +1,32 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "creative",
+    "customModelName": "Normal",
+    "name": "Creative Tool",
+    "specialInfo": [
+      "CREATIVE"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:GyistiLiving"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 90001,
+    "efficiency": 90004.0,
+    "attackSpeed": 1.0,
+    "enchantability": 90000,
+    "damageVsEntity": 90000.0,
+    "usageCount": 90000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Items.BOOK"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

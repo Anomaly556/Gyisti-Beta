@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gyisti:blocks/cpt_b",
+    "up": "gyisti:blocks/cpt_b",
+    "north": "gyisti:blocks/cpt_tick",
+    "east": "gyisti:blocks/cpt_b",
+    "south": "gyisti:blocks/cpt_b",
+    "west": "gyisti:blocks/cpt_b",
+    "particle": "gyisti:blocks/cpt_b"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_1": "cpt_b",
+        "m_0": "diepioblue"
+      },
+      "name": "default"
+    }
+  }
+}

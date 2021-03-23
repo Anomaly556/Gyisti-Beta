@@ -1,0 +1,419 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "GyistiLiving",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gyisti_living"
+    },
+    {
+      "name": "YouAreAnIdiot",
+      "type": "function",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "you_are_an_idiot"
+    },
+    {
+      "name": "MonsterSteveEntityIsHurt",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monster_steve_entity_is_hurt",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MonsterStevePlayerCollidesWithThisEntity",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monster_steve_player_collides_with_this_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MonsterSteve",
+      "type": "mob",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monster_steve"
+    },
+    {
+      "name": "SeedCreator",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "seed_creator"
+    },
+    {
+      "name": "Custom",
+      "type": "code",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "custom"
+    },
+    {
+      "name": "Cpt",
+      "type": "gui",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpt"
+    },
+    {
+      "name": "Computer",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "computer"
+    },
+    {
+      "name": "Ply",
+      "type": "function",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ply"
+    },
+    {
+      "name": "PlrmsgCommandExecuted",
+      "type": "procedure",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plrmsg_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Plrmsg",
+      "type": "command",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plrmsg"
+    },
+    {
+      "name": "Morse",
+      "type": "musicdisc",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "morse"
+    },
+    {
+      "name": "Code",
+      "type": "gui",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "code"
+    },
+    {
+      "name": "CreativeMode",
+      "type": "enchantment",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_mode"
+    },
+    {
+      "name": "IceFoodEaten",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ice",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice"
+    },
+    {
+      "name": "Cocacola",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cocacola"
+    },
+    {
+      "name": "Hotdog",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hotdog"
+    },
+    {
+      "name": "ImSorry",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "im_sorry"
+    },
+    {
+      "name": "Zombie",
+      "type": "mob",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zombie"
+    },
+    {
+      "name": "Diepiobasictank",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diepiobasictank"
+    },
+    {
+      "name": "CreativeTool",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "creative_tool"
+    },
+    {
+      "name": "TestGameWork",
+      "type": "mob",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_game_work"
+    },
+    {
+      "name": "Radio",
+      "type": "gui",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radio"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "SEED_STRING",
+      "type": "string",
+      "scope": "map",
+      "value": ""
+    }
+  ],
+  "sound_elements": [
+    {
+      "name": "youareanidiot",
+      "file": "you-are-an-idiot",
+      "category": "master"
+    },
+    {
+      "name": "ai_scp",
+      "file": "ai",
+      "category": "master"
+    },
+    {
+      "name": "amongus",
+      "file": "amongusthemecorrupted",
+      "category": "master"
+    },
+    {
+      "name": "blue",
+      "file": "blue_feather",
+      "category": "master"
+    },
+    {
+      "name": "bump",
+      "file": "bump_in_the_night",
+      "category": "master"
+    },
+    {
+      "name": "fnaf",
+      "file": "five_nights_at_freddys_soundtrack_-_music_box_freddys_music",
+      "category": "master"
+    },
+    {
+      "name": "mandre",
+      "file": "mandeville",
+      "category": "master"
+    },
+    {
+      "name": "scpradio",
+      "file": "scpradio_tune",
+      "category": "master"
+    },
+    {
+      "name": "shaun",
+      "file": "shaun_day_feat._shaun_das_schaf",
+      "category": "master"
+    },
+    {
+      "name": "showyourself",
+      "file": "show_yourself_-_among_us_animation_original_song",
+      "category": "master"
+    },
+    {
+      "name": "yourlastwarning",
+      "file": "this_is_your_last_warningscp_rem2ix",
+      "category": "master"
+    },
+    {
+      "name": "yourrast",
+      "file": "this_is_your_last_warningscp_remix",
+      "category": "master"
+    },
+    {
+      "name": "timmy",
+      "file": "timmy_time_theme_song",
+      "category": "master"
+    },
+    {
+      "name": "ugotthat",
+      "file": "u_got",
+      "category": "master"
+    },
+    {
+      "name": "boom",
+      "file": "vengaboys_-_boomboomboomboom_1999",
+      "category": "master"
+    },
+    {
+      "name": "melo",
+      "file": "melobytes_1",
+      "category": "master"
+    },
+    {
+      "name": "mely",
+      "file": "melobytes",
+      "category": "master"
+    },
+    {
+      "name": "mors",
+      "file": "morse_2",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.gyisti.diepiobasictank": "Diepio basic tank",
+      "item.gyisti.ice": "Ice",
+      "item.gyisti.im_sorry": "Im Sorry",
+      "block.gyisti.computer": "Computer",
+      "item.gyisti.morse.desc": "-... .--. --",
+      "item.gyisti.morse": "Morse",
+      "itemGroup.tabgyisti_living": "Gyisti Living",
+      "entity.gyisti.zombie": "Tester Zombie",
+      "item.gyisti.cocacola": "Cocacola",
+      "item.gyisti.hotdog": "Hotdog",
+      "item.gyisti.test_game_work": "Test Game Work Spawn Egg",
+      "enchantment.gyisti.creative_mode": "Creative Mode",
+      "item.gyisti.monster_steve": "Monster Steve Spawn Egg",
+      "item.gyisti.creative_tool": "Creative Tool",
+      "entity.gyisti.test_game_work": "Test Game Work",
+      "item.gyisti.zombie": "Tester Zombie Spawn Egg",
+      "entity.gyisti.monster_steve": "Monster Steve"
+    },
+    "ja_jp": {
+      "item.gyisti.diepiobasictank": "Diepio basic tank",
+      "item.gyisti.ice": "Ice",
+      "item.gyisti.im_sorry": "Im Sorry",
+      "block.gyisti.computer": "Computer",
+      "item.gyisti.morse.desc": "-... .--. --",
+      "item.gyisti.morse": "Morse",
+      "itemGroup.tabgyisti_living": "Gyisti Living",
+      "entity.gyisti.zombie": "Tester Zombie",
+      "item.gyisti.cocacola": "Cocacola",
+      "item.gyisti.hotdog": "Hotdog",
+      "item.gyisti.test_game_work": "Test Game Work Spawn Egg",
+      "enchantment.gyisti.creative_mode": "Creative Mode",
+      "item.gyisti.monster_steve": "Monster Steve Spawn Egg",
+      "item.gyisti.creative_tool": "Creative Tool",
+      "entity.gyisti.test_game_work": "Test Game Work",
+      "item.gyisti.zombie": "Tester Zombie Spawn Egg",
+      "entity.gyisti.monster_steve": "Monster Steve"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "gyisti",
+    "modName": "gyisti",
+    "version": "1.0.0",
+    "author": "user, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.gyisti",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

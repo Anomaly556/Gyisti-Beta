@@ -1,0 +1,19 @@
+{
+  "item.gyisti.diepiobasictank": "Diepio basic tank",
+  "item.gyisti.ice": "Ice",
+  "item.gyisti.im_sorry": "Im Sorry",
+  "block.gyisti.computer": "Computer",
+  "item.gyisti.morse.desc": "-... .--. --",
+  "item.gyisti.morse": "Morse",
+  "itemGroup.tabgyisti_living": "Gyisti Living",
+  "entity.gyisti.zombie": "Tester Zombie",
+  "item.gyisti.cocacola": "Cocacola",
+  "item.gyisti.hotdog": "Hotdog",
+  "item.gyisti.test_game_work": "Test Game Work Spawn Egg",
+  "enchantment.gyisti.creative_mode": "Creative Mode",
+  "item.gyisti.monster_steve": "Monster Steve Spawn Egg",
+  "item.gyisti.creative_tool": "Creative Tool",
+  "entity.gyisti.test_game_work": "Test Game Work",
+  "item.gyisti.zombie": "Tester Zombie Spawn Egg",
+  "entity.gyisti.monster_steve": "Monster Steve"
+}
